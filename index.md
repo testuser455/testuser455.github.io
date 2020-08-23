@@ -3,7 +3,7 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Write down your full name here**
+Surname(s) / First name(s): Jimmy John 
 
 Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
 
